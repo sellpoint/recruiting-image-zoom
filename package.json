@@ -1,0 +1,24 @@
+{
+  "name": "recruiting-image-zoom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "build a simple image zoomer in vanilla javascript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sellpoint/recruiting-image-zoom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sellpoint/recruiting-image-zoom/issues"
+  },
+  "homepage": "https://github.com/sellpoint/recruiting-image-zoom#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
